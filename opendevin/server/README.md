@@ -67,6 +67,7 @@ This list may grow over time.
   * `agent_cls` - the class of the agent to use
 * `start` - starts a new development task. Only sent by the client.
   * `task` - the task to start
+  *This may th=ake some time to access.
 * `read` - reads the content of a file.
   * `path` - the path of the file to read
 * `write` - writes the content to a file.
